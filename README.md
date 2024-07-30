@@ -1,3 +1,3 @@
 # repodeprueba
 
-Repositorio de prueba 123...
+Repositorio de prueba 123
